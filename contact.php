@@ -1,6 +1,6 @@
 <?php
 if($_POST["submit"]) {
-$recipient="temitope.ogungbesan.5@gmail.com";
+$recipient="ayodeji22ng@gmail.com";
 $subject="Plastic Upcycle Message";
 $message = $_POST["message"];
 $senderEmail = $_POST["email"];
